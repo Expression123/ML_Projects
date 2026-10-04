@@ -1,0 +1,6 @@
+gradio==5.50.0
+pandas==2.3.3
+python-dotenv==1.2.2
+openai==2.31.0
+openai-agents==0.4.2
+pydantic==2.11.10
